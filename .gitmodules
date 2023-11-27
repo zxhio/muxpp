@@ -1,0 +1,9 @@
+[submodule "third-party/json"]
+	path = third-party/json
+	url = https://github.com/nlohmann/json
+[submodule "third-party/libevent"]
+	path = third-party/libevent
+	url = https://github.com/libevent/libevent.git
+[submodule "third-party/spdlog"]
+	path = third-party/spdlog
+	url = https://github.com/gabime/spdlog
